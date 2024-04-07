@@ -1,0 +1,9 @@
+.search{
+    border: solid;
+    border-color: black;
+    width: 450px;
+    margin-left: -200px;
+    padding: 5px;
+    outline-width:0
+    
+}
